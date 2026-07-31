@@ -45,6 +45,7 @@ npm run dev
 <img width="603" height="499" alt="image" src="https://github.com/user-attachments/assets/999dfd41-456a-4512-a65e-b38f96fb17f2" />
 <img width="973" height="559" alt="image" src="https://github.com/user-attachments/assets/4086a027-651a-4830-b24a-c08cd3b9ec04" />
 
+---
 
 ## 🤝 Contributing
 
@@ -57,4 +58,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/Adnan-naveed533)
+- GitHub: [@Adnan-Naveed](https://github.com/Adnan-naveed533)
